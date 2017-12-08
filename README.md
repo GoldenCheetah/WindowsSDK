@@ -5,7 +5,7 @@ SDK is provided via "releases" here in GitHub. Check the "releases" page for the
 
 The currently supported toolchain is:
 - Microsoft Visual C++ 2015
-- Qt 5.8.0 for MSCVC 2015 (64bit)
+- Qt 5.9.3 for MSCVC 2015 (64bit)
 
 The SDK will always be a "pre-release" and is intended for personal use only.
 
